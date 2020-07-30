@@ -1,0 +1,16 @@
+id: carrier-i
+
+title: Carrier I
+
+flag: "104 melrose st"
+
+points: 20
+
+description: |-
+    One of MISC's delivery drivers has recently tested positive for COVID-19. We have some of his GPS data from a recent delivery trip when he was symptomatic but continued to work. This file is attached below.
+
+    **Task**: Find the address of the 3rd house that the delivery person visited on his recent delivery trip
+
+    **Submission format**: Submit the address name in all lowercase letters. e.g. `500 yarra blvd`
+
+files: ['./route.gpx']

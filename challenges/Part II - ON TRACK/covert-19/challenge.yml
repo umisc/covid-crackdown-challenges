@@ -1,0 +1,18 @@
+id: covert-19
+
+title: COVERT-19
+
+flag: "ice cream cures coronavirus"
+
+points: 10
+
+description: |-
+    We've intercepted some internet traffic coming from MISC's mail server and found a strange bit of text that seems to be encrypted. We suspect that some shifty business is going on and need to figure out what they're saying. This is what we found:
+
+    ```
+    bvx vkxtf vnkxl vhkhgtobknl
+    ```
+
+    **Task**: Decrypt the secret message
+
+files: []

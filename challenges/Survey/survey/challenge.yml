@@ -1,0 +1,12 @@
+id: survey
+
+title: Survey
+
+flag: "ice cream"
+
+points: 0
+
+description: |-
+    Please fill out [this survey](https://forms.gle/LWZ6qzGRBUYeNVzn6) with your feedback, we really appreciate it :)
+
+files: []

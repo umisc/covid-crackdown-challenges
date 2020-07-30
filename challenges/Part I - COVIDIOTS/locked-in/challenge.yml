@@ -1,0 +1,18 @@
+id: locked-in
+
+title: Locked in
+
+flag: "north melbourne"
+
+points: 20
+
+maxAttempts: 1
+
+description: |-
+    Our suspicions of MISC's CEO are high enough to warrant further monitoring of their actions. We will need you to find details of their place of residence to continue our investigation. Due to the nature of this task, you will only be allowed one chance at submitting a response.
+
+    **Task**: Find the residential suburb of MISC's CEO
+
+    **Submission format**: Submit the suburb name in all lowercase letters.
+
+files: []

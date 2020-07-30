@@ -1,0 +1,14 @@
+id: side-quests-readme
+
+title: README
+
+flag: "b-side"
+
+points: 1
+
+description: |-
+    While the MISC investigation is going on, we have recieved numerous reports of COVID-19 related cybercrimes and criminal activities. Help us get to the bottom of these for some extra credit.
+
+    Submit `b-side` and continue on with the investigation.
+
+files: []

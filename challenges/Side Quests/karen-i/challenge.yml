@@ -1,0 +1,20 @@
+id: karen-i
+
+title: Karen I
+
+flag: "(03) 8796 6600"
+
+points: 10
+
+maxAttempts: 3
+
+description: |-
+    We believe that spreading misinformation about the coronavirus is almost as bad as spreading the virus itself. Recently a few "Karens" have appeared in Melbourne, the first of whom has been dubbed "Karen from Bunnings".
+
+    **Task**: Find the phone number of the Bunnings she visited, so we can offer our condolences to the poor staff who work there
+
+    **Submission format**: Submit phone number in the form:
+
+    `(XX) XXXX XXXX`
+
+files: []

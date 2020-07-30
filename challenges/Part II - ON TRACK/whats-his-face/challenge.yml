@@ -1,0 +1,18 @@
+id: whats-his-face
+
+title: What's his face
+
+flag: "jeremy sanders"
+
+points: 30
+
+description: |-
+    Our suspicions have been confirmed. MISC has been leaking sensitive research data to suspicious individuals. We've recorded a phone conversation between the MISC CEO and an unknown contact during which sensitive research topics were discussed. We have the phone number of the callee, but we want to find out more about them.
+
+    **Hint**: A phone number can potentially reveal a lot about a person, especially if they've linked it to services and apps.
+
+    **Task**: Find the name of the contact with phone number +61426865680
+
+    **Submission format**: Submit the contact's full name, in all lowercase letters.
+
+files: []

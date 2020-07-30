@@ -1,0 +1,14 @@
+id: part-ii-readme
+
+title: README
+
+flag: "trace"
+
+points: 1
+
+description: |-
+    There have been many COVID-19 infections related to MISC. Knowing how careless they are, we are very worried that this will cause even larger outbreaks in the wider community. We need your help to track down anyone who may have been in contact with someone from MISC.
+
+    Submit `trace` and continue on with the investigation.
+
+files: []

@@ -1,0 +1,18 @@
+id: 5g
+
+title: 5G
+
+flag: "cookiesandcream"
+
+points: 10
+
+description: |-
+    We suspect that the reason behind the multiple infections at MISC has something to do with their 5G internet. We will need to do a full trace of their internet access to confirm our suspicions.
+
+    **Hint**: People can be so careless with what they publicise.
+
+    **Task**: Find the WIFI password of MISC's main office
+
+    *Disclaimer: the writers of this challenge don't actually believe 5G has anything to do with COVID-19.
+
+files: []

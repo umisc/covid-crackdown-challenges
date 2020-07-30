@@ -1,0 +1,18 @@
+id: carrier-ii
+
+title: Carrier II
+
+flag: "southern cross,01:59,1"
+
+points: 40
+
+description: |-
+    Yet another MISC delivery person has tested positive. On the 2nd of July 2020, they boarded the V/Line service departing at 05:26 from Traralgon, bound for Flinders Street. On arrival at Flinders Street, the contaminated train became the 07:46 service back to Traralgon. A train can travel along many different routes throughout the day.
+
+    **Hint**: The timetables on the customer V/Line website show nothing more than the departure and arrival times of trains. Maybe you can find some corporate documents that have some more info.
+
+    **Task**: Find the last arrival at a passenger station (for the train's working day) of the train that the delivery person boarded. Include the station name, the time of arrival and the platform.
+
+    **Submission format**: The station name should be lowercase, and the time should be in 24h format. Separate the three pieces of data by commas. e.g. `flinders street,08:15,7`
+
+files: []

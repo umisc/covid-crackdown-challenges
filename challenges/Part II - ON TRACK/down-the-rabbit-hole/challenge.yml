@@ -1,0 +1,14 @@
+id: down-the-rabbit-hole
+
+title: Down the rabbit hole
+
+flag: "14.137.223.165"
+
+points: 20
+
+description: |-
+    We need to dig deeper into MISC's services and locations, they seem to like hosting their own servers. Maybe looking into their mail service can bring up some new data.
+
+    **Task**: Find the IP address of MISC's mail server
+
+files: []

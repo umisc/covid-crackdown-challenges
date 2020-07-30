@@ -1,0 +1,18 @@
+id: karen-ii
+
+title: Karen II
+
+flag: "jason coleman's ministry of dance,sarah croser"
+
+points: 30
+
+maxAttempts: 5
+
+description: |-
+    Yet another "Karen" has made the news, this time dubbed "Karen 2.0". She's a psychic now, but was once trained as an actor. I sure hope this "no masks" business is just an act. In 2011, she was trained at a dance academy.
+
+    **Task**: Find the name of this dance academy and the name of her instructor while she was there
+
+    **Submission format**: Submit the name of the dance academy and the full name (first and last name) of her instructor, all in lowercase, separated by a comma. e.g. `unversity of melbourne,duncan maskell`
+
+files: []

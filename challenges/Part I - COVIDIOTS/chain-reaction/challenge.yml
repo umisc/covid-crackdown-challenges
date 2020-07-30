@@ -1,0 +1,18 @@
+id: chain-reaction
+
+title: Chain reaction
+
+flag: "hawthorn"
+
+points: 10
+
+maxAttempts: 1
+
+description: |-
+    Our suspicions have been confirmed. A worker at MISC had contracted COVID-19 from one of their customers before the office was closed down. We will now need to monitor everyone they could have been in contact with, starting from MISC's finance director. Again, you will only have one chance at submitting a response for this task.
+
+    **Task**: Find the residential suburb of MISC's Finance Director
+
+    **Submission format**: Submit the suburb name in all lowercase letters.
+
+files: []

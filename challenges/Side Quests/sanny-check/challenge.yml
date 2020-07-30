@@ -1,0 +1,16 @@
+id: sanny-check
+
+title: Sanny check
+
+flag: "49605683172"
+
+points: 40
+
+description: |-
+    Help! I've run out of hand sanny and am at the store to buy a new one. The thing is, I only trust this one brand of hand sanitiser but I've forgotten its name. I  took a picture of it in case I found myself stuck in this situation, but it seems like a roll of toilet paper got in my way!
+
+    **Task**: Find the ABN of the company that produces this particular hand sanitiser
+
+    **Submission format**: Submit the ABN without spaces
+
+files: ['./hand-sanny.jpg']

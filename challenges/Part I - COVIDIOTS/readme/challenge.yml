@@ -1,0 +1,20 @@
+id: readme
+
+title: README
+
+flag: "test piece of information"
+
+points: 1
+
+description: |-
+    Greetings, quaranteam.
+
+    You have been hired to investigate a group of individuals who are under suspicion of breaching lockdown regulations in Melbourne, Victoria. We have sufficient evidence that the aforementioned group have been violating many health and safety guidelines, from not wearing face masks in public to refusing to work from home. Their website can be found at [http://misc.team](http://misc.team).
+
+    Your mission is to investigate the group and each of its members and help us collect information about their activities and whereabouts. When you think you have the correct piece of information that the task is asking of you, submit it in the field below. As a test, submit `test piece of information` here to make sure everything is working fine. You can view your specific tasks on this page. Contacting target individuals is strictly prohibited, as this operation must remain secret until all data has been acquired. Otherwise, there are no limits on where and how said data can be obtained.
+
+    If stuck on a task, or to report a fault in this system, our agents can be contacted [here](http://discord.gg/JmXrDF7). If facing imminent danger, dial 000.
+
+    Good luck agents, the health and safety of Melbourne now depends on you.
+
+files: []

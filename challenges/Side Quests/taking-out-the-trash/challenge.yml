@@ -1,0 +1,16 @@
+id: taking-out-the-trash
+
+title: Taking out the trash
+
+flag: "government1971au@alice.it,1053"
+
+points: 20
+
+description: |-
+    We have had a lot of reports of scam emails related to COVID-19. The attached file contains an archive of 10000 emails. It seems that many different groups are attempting the same scam. We want to identify the most active group.
+
+    **Task**: Find the email address that sent the most scam emails and the number of emails that they sent
+
+    **Submission format**: Separate the email address and number of emails by a comma. e.g. `bob.smith@gmail.com,123`
+
+files: ['./emails.tgz']

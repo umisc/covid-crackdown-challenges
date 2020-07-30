@@ -1,0 +1,18 @@
+id: contactless
+
+title: Contactless
+
+flag: "0424510638"
+
+points: 20
+
+description: |-
+    It seems that the third member of the MISC team can't be reached via twitter. We will have to resort to other means to track them down.
+
+    **Hint**: There's an interesting comment on the about page. It seems like a previous _version_ of the webpage would help.
+
+    **Task**: Find the phone number of MISC's web developer.
+
+    **Submission format**: Submit the phone number starting with `04`, e.g. `0412345678`
+
+files: []

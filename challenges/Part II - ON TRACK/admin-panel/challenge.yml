@@ -1,0 +1,16 @@
+id: admin-panel
+
+title: Admin panel
+
+flag: "ahmed anwar"
+
+points: 30
+
+description: |-
+    Now that MISC is moving their business online, one can expect them to have some sort of online database to store their customer records.
+
+    **Task**: Find the name of the first customer that MISC delivered to
+
+    **Submission format**: Submit the customer's full name, in all lowercase letters.
+
+files: []

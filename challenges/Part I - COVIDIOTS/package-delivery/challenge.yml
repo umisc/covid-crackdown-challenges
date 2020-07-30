@@ -1,0 +1,18 @@
+id: package-delivery
+
+title: Package delivery
+
+flag: "1140"
+
+points: 20
+
+description: |-
+    We've snooped in on their network and captured some activity. The packet capture file is attached below.
+
+    This whole MISC business seems like a total scam, I can't imagine anyone actually paying them money...
+
+    **Task**: Find the amount of money MISC made in total in June
+
+    **Submission format**: Submit the amount as an integer (e.g. `1843`)
+
+files: ['./capture.pcap']
